@@ -1,4 +1,4 @@
-Music Player.
+Project Name: Music Player
 
 APIs: Spotify api
 
