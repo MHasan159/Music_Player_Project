@@ -17,10 +17,10 @@ Advanced features (stretch goals)
 
 1. Have any liked song be placed into a playlist.
 
-2. Search entire spotify catalog and display it user
+2. Search entire spotify catalog and display it user.
 
- 3.Have user create multiple playlist.
+3.Have user create multiple playlist.
 
- 4.Have user be able to use light and dark mode.
+4.Have user be able to use light and dark mode.
 
 
